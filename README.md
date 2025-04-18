@@ -9,6 +9,7 @@ This repository contains focused test cases created as part of my 14-day Playwri
 - Day 3: Deep dive into Playwright locators  
 - Day 4: Assertions and auto-waiting in action  
 - Day 5: Handling waits, timeouts, and reliability  
+  - Day 5 Challenge: Delay-based todo interaction with precise assertions
 - Locators challenge covering:
   - Placeholder locator
   - Role-based list item access

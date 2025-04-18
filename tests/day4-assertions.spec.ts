@@ -20,5 +20,5 @@ test ('Assertions and auto waits demo', async ({ page })=> {
   await page.getByRole('button', { name: 'Clear completed' }).click();
 
   // Assert it's gone
-  await expect(page.getByText('RLearn assertions')).toHaveCount(0); // assertion 4
+  await expect(page.getByText('Learn assertions')).toHaveCount(0); // assertion 4
 });

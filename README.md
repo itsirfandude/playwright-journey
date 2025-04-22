@@ -13,7 +13,10 @@ This repository contains focused test cases created as part of my 14-day Playwri
 - Day 6: Looping through multiple elements and asserting visibility/state
 - Day 7: API + UI hybrid testing
   - Fetched names from JSONPlaceholder API and used them in UI tests
-  
+- Day 8: Test structure and setup reuse
+  - Used beforeEach to avoid repeated setup
+  - Created separate test cases using shared logic
+  - Introduced Playwright fixtures like `page` and `context`
 - Locators challenge covering:
   - Placeholder locator
   - Role-based list item access

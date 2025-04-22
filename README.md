@@ -23,6 +23,10 @@ This repository contains focused test cases created as part of my 14-day Playwri
   - Label-based checkbox interactions
   - Text-based button interactions
   - Chaining and filtering locators
+- Day 9: Page Object Model (POM)
+  - Created TodoPage class to separate test logic
+  - Used constructor, this, and readonly for clean code structure
+  - Moved locators and actions into reusable class methods
 
 ## 🛠 Tech Stack
 

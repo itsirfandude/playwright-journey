@@ -27,6 +27,9 @@ This repository contains focused test cases created as part of my 14-day Playwri
   - Created TodoPage class to separate test logic
   - Used constructor, this, and readonly for clean code structure
   - Moved locators and actions into reusable class methods
+  - Day 9 Challenge: Page Object practice
+  - Added 3 todos using class methods
+  - Asserted count, visibility, and content using clean POM-based test
 
 ## 🛠 Tech Stack
 

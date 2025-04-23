@@ -30,6 +30,12 @@ This repository contains focused test cases created as part of my 14-day Playwri
   - Day 9 Challenge: Page Object practice
   - Added 3 todos using class methods
   - Asserted count, visibility, and content using clean POM-based test
+- Day 10: Reuse and modular testing
+  - Used existing Page Object (TodoPage) across multiple tests
+  - Created reusable assertion helpers in TodoAssertions.ts
+  - Implemented clean test flow with add/check/assert pattern
+  - Used loops and `for...of` to dynamically add todos
+  - Bonus: Added negative assertion with `.not.toBe()`
 
 ## 🛠 Tech Stack
 

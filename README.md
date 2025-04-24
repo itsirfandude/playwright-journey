@@ -36,6 +36,16 @@ This repository contains focused test cases created as part of my 14-day Playwri
   - Implemented clean test flow with add/check/assert pattern
   - Used loops and `for...of` to dynamically add todos
   - Bonus: Added negative assertion with `.not.toBe()`
+- Day 11: Advanced Page Object usage
+  - Created separate page objects for login and secure page
+  - Tested login flow using POM
+  - Asserting messages via dedicated class methods
+  - No raw locators in test file
+  - Day 11 Challenge: Login flow (multi-page)
+  - Used LoginPage and SecurePage for page separation
+  - Added negative test for invalid credentials
+  - Created reusable assertion helper in LoginAssertions.ts
+  - Demonstrated locator debugging and selector accuracy
 
 ## 🛠 Tech Stack
 

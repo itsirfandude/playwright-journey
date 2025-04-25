@@ -46,6 +46,13 @@ This repository contains focused test cases created as part of my 14-day Playwri
   - Added negative test for invalid credentials
   - Created reusable assertion helper in LoginAssertions.ts
   - Demonstrated locator debugging and selector accuracy
+## Covered Topics:
+
+- Day 12 - Advanced Testing:
+  - Cross-Browser Testing: Ran tests on Chrome, Firefox, and WebKit with browser-specific logic and element checks.
+  - Parallel API + UI Testing: Tested API and UI in parallel for faster test execution.
+  - Playwright Config: Set up a configuration file to manage cross-browser tests and parallel workers.
+
 
 ## 🛠 Tech Stack
 

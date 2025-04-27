@@ -58,6 +58,16 @@ This repository contains focused test cases created as part of my 14-day Playwri
     - Simulated a **200 OK** response and checked for successful login behavior.
   - Differentiated between error messages (`.flash.error`) and success messages (`.flash.success`).
   - Practiced handling **UI interactions** and **API mocking** together for hybrid tests.
+- **Day 14 - Final Challenge Project**:
+  - Built a real-world style E2E flow:
+    - Login with username/password.
+    - Add multiple products to cart.
+    - Verify cart badge and cart contents.
+    - Logout and verify redirection to login page.
+  - Practiced finding locators manually.
+  - Wrote Page Object Model (POM) classes from scratch.
+  - Used hooks (`beforeEach`) to set up tests cleanly.
+  - Structured a complete, professional Playwright test.
 
 
 ## 🛠 Tech Stack
